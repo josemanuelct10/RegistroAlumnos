@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/AnadirAlumno"
+        android:title="Añadir Alumno"/>
+    <item
+        android:id="@+id/ActualizarCurso"
+        android:title="Actualizar Curso"/>
+
+    <item
+        android:id="@+id/EliminarAlumno"
+        android:title="Eliminar Alumno"/>
+
+</menu>
